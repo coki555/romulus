@@ -1,1 +1,1 @@
-printf
+print("ahoj svet verzia 2")
